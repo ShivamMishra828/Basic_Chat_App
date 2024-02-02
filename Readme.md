@@ -36,6 +36,10 @@ Wassup Chat App is a basic chat application built using Node.js, Express, and So
 
 4. Start chatting!
 
+## Deployment
+
+The Wassup Chat App is deployed and accessible at [https://basic-chat-app-s7fp.onrender.com](https://basic-chat-app-s7fp.onrender.com). Feel free to check it out!
+
 ## Project Structure
 
 - `server.js`: The main server file that initializes Express and Socket.IO.
